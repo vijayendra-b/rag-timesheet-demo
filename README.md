@@ -33,7 +33,7 @@ Timesheets exceeding 10 hours require manager approval.
 Historical Case:
 Previous similar case was rejected.
 
-
+```
 rag-timesheet-demo/
 │
 ├── data/
@@ -49,3 +49,4 @@ rag-timesheet-demo/
 ├── .gitignore
 │
 └── faiss_index/   (excluded)
+```

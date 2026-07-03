@@ -1,0 +1,3 @@
+Weekend work is permitted only for critical production support.
+
+Weekend work without a ticket reference requires investigation.

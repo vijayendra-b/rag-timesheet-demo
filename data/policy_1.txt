@@ -1,0 +1,5 @@
+Timesheets exceeding 10 hours per day require manager approval.
+
+Employees may work overtime only when approved in advance.
+
+Unapproved overtime should be rejected.

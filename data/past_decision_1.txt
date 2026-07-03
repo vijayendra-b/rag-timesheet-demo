@@ -1,0 +1,6 @@
+Employee submitted 12 hours on a weekday.
+
+No manager approval attached.
+
+Decision: Rejected.
+Reason: Violates overtime policy.

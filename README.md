@@ -55,5 +55,6 @@ Previous similar case was rejected.
 
 ### Screenshot
 
-<img width="2914" height="1252" alt="image" src="https://github.com/user-attachments/assets/98236fa1-fc4f-4be6-b925-03629e448404" />
+<img width="2170" height="1822" alt="image" src="https://github.com/user-attachments/assets/d38e1e6b-1baf-4278-b8a7-bc5e8559b26b" />
+
 

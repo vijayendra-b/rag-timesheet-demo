@@ -21,7 +21,7 @@ No manager approval attached.
 """
 
 query = """
-Employee logged 8 hours on Monday.
+Employee logged 9 hours on Monday.
 Manager approval is attached.
 """
 
@@ -76,9 +76,16 @@ response = ollama.chat(
     ]
 )
 
+
 print("\n")
+print("-" * 80)
+print("YOUR QUERY")
+print("-" * 80)
+print(query)
+
 print("=" * 80)
 print("LLM DECISION")
 print("=" * 80)
 
 print(response["message"]["content"])
+print("\n")

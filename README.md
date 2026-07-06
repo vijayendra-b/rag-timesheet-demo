@@ -20,18 +20,7 @@ This project demonstrates Retrieval-Augmented Generation (RAG) for context-aware
 - Sentence Transformers
 - Ollama (Llama 3.2)
 
-## Sample Output
-
-Decision: Reject
-
-Reason:
-Employee submitted 12 hours without manager approval.
-
-Policy:
-Timesheets exceeding 10 hours require manager approval.
-
-Historical Case:
-Previous similar case was rejected.
+## Project Structure
 
 ```
 rag-timesheet-demo/
@@ -50,3 +39,21 @@ rag-timesheet-demo/
 │
 └── faiss_index/   (excluded)
 ```
+
+## Sample Output
+
+Decision: Reject
+
+Reason:
+Employee submitted 12 hours without manager approval.
+
+Policy:
+Timesheets exceeding 10 hours require manager approval.
+
+Historical Case:
+Previous similar case was rejected.
+
+### Screenshot
+
+<img width="2914" height="1252" alt="image" src="https://github.com/user-attachments/assets/98236fa1-fc4f-4be6-b925-03629e448404" />
+
